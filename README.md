@@ -4,12 +4,12 @@
 - 📫 How to reach me -  branko1996@abv.bg or Branimir Nenchev on facebook.
 
 -  Certificates from SoftUni - 
-Programming Basics with Java
-Programming Fundamentals with Java
-Advanced Programming with Java
-Java OOP
-SQL Data Base
-Spring framework introduction
-Spring Fundamentals
+Programming Basics with Java,
+Programming Fundamentals with Java, 
+Advanced Programming with Java, 
+Java OOP, 
+SQL Data Base, 
+Spring framework introduction, 
+Spring Fundamentals, 
 Spring Advances (coming soon)
 
