@@ -8,7 +8,7 @@ Programming Basics with Java,
 Programming Fundamentals with Java, 
 Advanced Programming with Java, 
 Java OOP, 
-SQL Data Base, 
+SQL(MySQL) Data Base, 
 Spring framework introduction, 
 Spring Fundamentals, 
 Spring Advances (coming soon)
